@@ -1,0 +1,29 @@
+{
+  "participants": {
+    "pro_debater": "019ac21c-0b20-7252-a622-d3c3b4d7e174",
+    "con_debater": "019ac21c-90b9-7120-bc26-f9665578a67f"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and structured argument. Their emotional appeal, while strong, effectively highlighted the potential stakes with vivid analogies (e.g., \"toddler with a loaded weapon\") and a clear call to action, establishing a sense of urgency. The arguments for regulation were clearly articulated with specific, well-defined examples in three key areas: bias, accountability, and existential risk. The use of the building codes analogy effectively framed regulation as a guide for responsible development, rather than a hindrance. Furthermore, the Pro side effectively pre-empted and countered the \"stifled innovation\" argument by linking regulation to fostering trust and stable growth. The Con side made valid points about the risks of overregulation, stifling innovation, and the difficulty of regulating a rapidly evolving field. However, its emotional appeal was less impactful, and while it effectively challenged the Pro's analogy and pointed out potential vagueness in regulatory implementation, the core arguments felt slightly less concrete compared to Pro's specific concerns about harm. The Con's alternative framework of \"open dialogue\" and \"ethical guidelines\" felt less robust as a solution to the large-scale risks highlighted by the Pro side."
+      }
+    }
+  ]
+}
